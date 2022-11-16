@@ -1,10 +1,10 @@
 ---
 title: "Introduction"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+metaTitle: "Introducing Sharable Cash technology and platform"
+metaDescription: "Sharable Cash is a programmable payment platform"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Markdown link handling for relative and absolute URLs. Easy to customise.
+Introducing Sharable Cash - a programmable payment platform.
 
 # Heading H1
 Heading 1 text
